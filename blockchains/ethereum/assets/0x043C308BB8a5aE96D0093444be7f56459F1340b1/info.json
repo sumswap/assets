@@ -1,0 +1,11 @@
+{
+    "name": "SUM",
+    "website": "https://www.sumswap.org",
+    "description": "Decentralized financial integrators on the shoulders of giants;Math is the law, code is the law;Integrate excellent mathematical algorithms and freeze them with block chain to realize a decentralized financial world in which mathematics is law and code is law.",
+    "explorer": "https://etherscan.io/token/0x043c308bb8a5ae96d0093444be7f56459f1340b1",
+    "type": "ERC20",
+    "symbol": "SUM",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x043c308bb8a5ae96d0093444be7f56459f1340b1"
+}
